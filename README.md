@@ -4,7 +4,7 @@
 
 ### Try it here: https://codingwith-adam.github.io/gamepad-api-simple-game/
 
-### YouTube Tutorial: (coming soon)
+### YouTube Tutorial: https://youtu.be/GOjMP6WY8CU
 
 ## Description
 
